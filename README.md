@@ -95,8 +95,8 @@ def answer(question: str) -> dict:
 
 ### Step 1: Clone & Environment Setup
 ```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/SristiSrijan87/Genai3mid.git
+cd Genai3mid
 
 # Create virtual environment (optional but recommended)
 python3 -m venv .venv
